@@ -1,6 +1,11 @@
-# CharlesSchwab
-Work data science project
-Hi everyone! My name is Harold Anderson and my hobbies are fiction writing and skiing.
-![headshot](harold_pic.jpeg)
-My favorite book is The Confederacy of Dunces
-Another great book is Tom Sawyer
+<h1 align="Center">Stock price predicting through text analysis</h1>
+<p align="Center">This project applies sentiment analysis to tweets and uses the results to predict stock price movement<p/>
+## Built With
+- Python
+
+## Author
+
+**Harold Anderson**
+
+- [Profile](https://github.com/duskybadger)
+- [Email](mailto:harold8041@yahoo.com)
